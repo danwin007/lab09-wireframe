@@ -1,0 +1,84 @@
+ .navbar {
+  width: 100%;
+  background-color: grey;
+  height: 90px;
+}
+
+#logo {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+ul {
+  text-align: center;
+}
+li {
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: large;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+#bigOne {
+  width: 100%
+}
+
+.bigone {
+  display: block;
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  clear: none;
+}
+
+#midtrio {
+  margin: auto;
+  width: 960px;
+  padding-bottom: 25px;
+}
+
+.midtrio {
+  display: inline-block;
+}
+
+#trio1 {
+padding-right: 25px;
+}
+
+#trio2 {
+padding-right: 25px;
+}
+
+#trio3 {
+
+}
+
+.featured {
+  margin: auto;
+  width: 960px;
+  padding-bottom: 30px;
+}
+
+#featimg {
+  float: left;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
+h1, p {
+  float: left;
+}
+
+.text {
+  width: 450px;
+  height: 400px;
+  overflow: scroll;
+}
+
+.footerbg {
+  width: 100%;
+  background-color: grey;
+  height: 90px;
+}
